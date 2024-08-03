@@ -1,4 +1,4 @@
-Chào các bạn, tôi đã theo học lớp HIT Python Public 2024 và trên đây là file bài tập về nhà
+Chào các bạn, tôi đã theo học lớp HIT Python Public 2024 và trên đây là file bài tập về nhà   <3
 
 Bài 1:
 Python là ngôn ngữ thông dịch vì:
