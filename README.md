@@ -1,3 +1,5 @@
+Chào các bạn, tôi đã theo học lớp HIT Python Public 2024 và trên đây là file bài tập về nhà
+
 Bài 1:
 Python là ngôn ngữ thông dịch vì:
 1. Trước hết ta phải hiểu ngôn ngữ biên dịch là gì? Ngôn ngữ biên dịch là ngôn ngữ mà mã nguồn sẽ được dịch sang mã máy bởi trình biên dịch, sau đó máy tính sẽ thực hiện các lệnh theo file mã máy nhận được. Trong khi đó, ngôn ngữ thông dịch là từng dòng lệnh của mã nguồn sẽ được trình thông dịch thực hiện ngay tức thời mà không cần phải dịch trước cả file mã nguồn.
