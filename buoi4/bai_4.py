@@ -13,5 +13,4 @@ s=set(numbers[:i])
 # for index in range(i):
 #     # print(numbers[index],end=' ') 
 #     s.append(numbers[index])
-s=set(s)
 print(s)
