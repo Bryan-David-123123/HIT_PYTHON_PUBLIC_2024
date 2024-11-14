@@ -29,6 +29,7 @@ public class Test {
 			for(int i=0;i<n;i++) {
 				if(masv==a[i].getmaSinhVien()) {
 					tmp=true;
+					break;
 				}
 			}
 			if(tmp) {
